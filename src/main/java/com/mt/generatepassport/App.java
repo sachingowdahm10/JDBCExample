@@ -18,7 +18,11 @@ public class App
     public static void main( String[] args )
     {
     	Scanner sc = new Scanner(System.in);
+<<<<<<< HEAD
     	System.out.println("this is from master branch");
+=======
+    	System.out.println("hii");
+>>>>>>> refs/heads/child
     	View.displayOptions();
     	byte choice = sc.nextByte();
     	
