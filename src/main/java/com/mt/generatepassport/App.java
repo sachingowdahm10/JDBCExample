@@ -18,7 +18,7 @@ public class App
     public static void main( String[] args )
     {
     	Scanner sc = new Scanner(System.in);
-    	
+    	System.out.println("this is from master branch");
     	View.displayOptions();
     	byte choice = sc.nextByte();
     	
