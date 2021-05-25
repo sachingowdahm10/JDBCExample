@@ -18,7 +18,7 @@ public class App
     public static void main( String[] args )
     {
     	Scanner sc = new Scanner(System.in);
-    	System.out.println("hii");
+    	System.out.println("hii this is from local ");
     	View.displayOptions();
     	byte choice = sc.nextByte();
     	
